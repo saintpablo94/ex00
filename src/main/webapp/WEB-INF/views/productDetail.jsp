@@ -5,6 +5,7 @@
 	
 <html>
 <body>
-	<span>Hello ${msg} </span>
+	<span>${productVO.name }</span>
+	<span>${productVO.price }</span>
 </body>
 </html>
